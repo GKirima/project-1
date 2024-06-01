@@ -27,4 +27,13 @@ access the warehouse application hosted in the server tier.
 6. The technical IT staff comprises of 1 architect, 1 technical lead, 5 DevOps engineers, 1
 networking engineer, 1 DBA.
 
- 
+ Questions
+1. Calculate the overall on-prem cost for the e-commerce architecture. State all the
+assumptions. You can omit the costs related to the IT staff. – 20 points
+2. The organization wants to migrate the application to the cloud (Lift and Shift). What risks
+do you anticipate? – 5 points
+3. Calculate the projected cost of the architecture on the cloud. – 15 points
+4. Advanced (Optional)
+a. Replace the migrated lift-and-shift application with cloud-native services. State all
+assumptions.
+b. Calculate the cost of the resulting final cloud-native architecture.
